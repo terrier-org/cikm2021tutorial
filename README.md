@@ -17,11 +17,11 @@ This is the official repository of "*IR From Bag-of-words to BERT and Beyond thr
 Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 
  Suggested viewing:
-  - Western Europe: Run 1
+  - Europe, Africa, West/South/Central Asia: Run 1
   - North/South America: Run 2
-  - Asia and Oceania: Run 1 (parts 1 & 2), followed by Run 2 (parts 3 & 4)
+  - East Asia and Oceania: Run 1 (parts 1 & 2), followed by Run 2 (parts 3 & 4)
 
-**Run 1**: Aligned with Europe/Africa, partially accessible to Asia/Oceania
+**Run 1**: Aligned with Europe, Africa, and West/South/Central Asia, partially accessible to East Asia/Oceania
 
 | London (GMT) | Content | Live | Johannesburg (GMT+2) | Delhi (GMT+5:30) | Beijing (GMT+8) | Brisbane (GMT+10)|
 |-----|---------|:---:|---------|--------|--------|---------|
@@ -37,7 +37,7 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 | 1530-1630 | part 4 slides | ✅ | 1730-1830 | 2100-2200 |
 | 1630-1700 | part 4 lab | ✅    | 1830-1900 | 2200-2230 |
 
-**Run 2**: Aligned with North/South America, partially accessible to Asia/Oceania
+**Run 2**: Aligned with North/South America, partially accessible to East Asia/Oceania
 
 
 | LA (GMT-7) | Content | Live | New York (GMT-4) | São Paulo (GMT-3) | Beijing (GMT+8) | Brisbane (GMT+10)|
