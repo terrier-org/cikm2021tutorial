@@ -86,7 +86,7 @@ If you make using of any of these slides, notebooks, or additional PyTerrier plu
 
 ```bibtex
 
-@inproceedings{ecir2021-tut-bow2b,
+@inproceedings{cikm2021-tut-bow2b,
   author = {MacAvaney, Sean and Macdonald, Craig and Tonellotto, Nicola},
   title = {IR From Bag-of-words to BERT and Beyond through Practical Experiments: A CIKM 2021 tutorial with PyTerrier and OpenNIR},
   booktitle = {Proceedings of CIKM 2021},
