@@ -40,7 +40,7 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 **Run 2**: Aligned with North/South America, partially accessible to Asia/Oceania
 
 
-| LA (GMT-8) | Content | Live | New York (GMT+5) | Beijing (GMT+8) | Brisbane (GMT+10)|
+| LA (GMT-7) | Content | Live | New York (GMT-4) | Beijing (GMT+8) | Brisbane (GMT+10)|
 |-----|-------|--|------|-----------|-----------------------|
 | 1000-1100 | part 1 slides | 🎥              | 1300-1400 |
 | 1100-1130 | part 1 lab | :heavy_check_mark: | 1400-1430 |
