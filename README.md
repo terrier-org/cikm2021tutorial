@@ -4,6 +4,14 @@ This is the official repository of "*IR From Bag-of-words to BERT and Beyond thr
 
 > This is an updated edition of our previous [ECIR 2021 Tutorial](https://github.com/terrier-org/ecir2021tutorial)
 
+# Contents
+
+* Part 1: Classical IR: indexing, retrieval and evaluation 
+* Part 2: Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
+* Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
+* Part 4: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
+
+
 # Schedule
 
 Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
@@ -60,12 +68,6 @@ Contributors to Live Labs:
 * [Eugene Yang](https://www.eugene.zone/), Johns Hopkins University
 
 
-# Contents
-
-* Part 1: Classical IR: indexing, retrieval and evaluation 
-* Part 2: Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
-* Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
-* Part 4: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
 
 # Useful Links
 
