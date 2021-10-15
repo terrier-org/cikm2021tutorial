@@ -54,6 +54,7 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 | 1630-1730 | part 4 slides  | 🎥 |
 | 1730-1800 | part 4 lab | :heavy_check_mark: |
 
+We are thankful to Luca and Eugene for supporting additional live labs, and for CIKM 2021 volunteers, for being able to support this schedule.
 
 # Authors
 
