@@ -51,8 +51,8 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 | 1430-1530 | part 3 slides  | 🎥             | 1730-1830 | 0530-0630 (6 Nov) | 0730-0830 (6 Nov) |
 | 1530-1600 | part 3 lab | :heavy_check_mark: | 1830-1900 | 0630-0700 (6 Nov) | 0830-0900 (6 Nov) |
 | 1600-1630 | break | ☕                      | 1900-1930 | 0700-0730 (6 Nov) | 0900-0930 (6 Nov) |
-| 1630-1730 | part 4 slides  | 🎥             | 2030-2130 | 0730-0830 (6 Nov) | 0930-1030 (6 Nov) |
-| 1730-1800 | part 4 lab | :heavy_check_mark: | 2130-2200 | 0830-0900 (6 Nov) | 1030-1100 (6 Nov) |
+| 1630-1730 | part 4 slides  | 🎥             | 1930-2030 | 0730-0830 (6 Nov) | 0930-1030 (6 Nov) |
+| 1730-1800 | part 4 lab | :heavy_check_mark: | 2030-2100 | 0830-0900 (6 Nov) | 1030-1100 (6 Nov) |
 
 We are thankful to Luca and Eugene for supporting additional live labs, and for CIKM 2021 volunteers, for being able to support this schedule.
 
