@@ -21,21 +21,21 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
   - North/South America: Run 2
   - Asia and Oceania: Run 1 (parts 1 & 2), followed by Run 2 (parts 3 & 4)
 
-**Run 1**: Aligned with Western Europe, partially accessible to Americas or Asia/Oceania
+**Run 1**: Aligned with Europe/Africa, partially accessible to Asia/Oceania
 
-| London (GMT) | Content | Live | Delhi (GMT+5:30) | Beijing (GMT+8) | Brisbane (GMT+10)|
-|-----|---------|:---:|---------|--------|-----------------|
-| 0900-1000 | part 1 slides | ✅ | 1430-1530 | 1700-1800 | 1900-2000 |
-| 1000-1030 | part 1 lab | ✅    | 1530-1600 | 1800-1830 | 2000-2030 |
-| 1030-1100 | break | ☕         | 1600-1630 | 1830-1900 | 2030-2100 |
-| 1100-1200 | part 2 slides | ✅ | 1630-1730 | 1900-2000 | 2100-2200 |
-| 1200-1230 | part 2 lab | ✅    | 1730-1800 | 2000-2030 | 2200-2230 |
-| 1230-1330 | break | ☕         | 1800-1900 |
-| 1330-1430 | part 3 slides | ✅ | 1900-2000 |
-| 1430-1500 | part 3 lab | ✅    | 2000-2030 |
-| 1500-1530 | break | ☕         | 2030-2100 |
-| 1530-1630 | part 4 slides | ✅ | 2100-2200 |
-| 1630-1700 | part 4 lab | ✅    | 2200-2230 |
+| London (GMT) | Content | Live | Johannesburg (GMT+2) | Delhi (GMT+5:30) | Beijing (GMT+8) | Brisbane (GMT+10)|
+|-----|---------|:---:|---------|--------|--------|---------|
+| 0900-1000 | part 1 slides | ✅ | 1100-1200 | 1430-1530 | 1700-1800 | 1900-2000 |
+| 1000-1030 | part 1 lab | ✅    | 1200-1230 | 1530-1600 | 1800-1830 | 2000-2030 |
+| 1030-1100 | break | ☕         | 1230-1300 | 1600-1630 | 1830-1900 | 2030-2100 |
+| 1100-1200 | part 2 slides | ✅ | 1300-1400 | 1630-1730 | 1900-2000 | 2100-2200 |
+| 1200-1230 | part 2 lab | ✅    | 1400-1430 | 1730-1800 | 2000-2030 | 2200-2230 |
+| 1230-1330 | break | ☕         | 1430-1530 | 1800-1900 |
+| 1330-1430 | part 3 slides | ✅ | 1530-1630 | 1900-2000 |
+| 1430-1500 | part 3 lab | ✅    | 1630-1700 | 2000-2030 |
+| 1500-1530 | break | ☕         | 1700-1730 | 2030-2100 |
+| 1530-1630 | part 4 slides | ✅ | 1730-1830 | 2100-2200 |
+| 1630-1700 | part 4 lab | ✅    | 1830-1900 | 2200-2230 |
 
 **Run 2**: Aligned with North/South America, partially accessible to Asia/Oceania
 
