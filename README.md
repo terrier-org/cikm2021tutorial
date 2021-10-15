@@ -19,9 +19,9 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
  Suggested viewing:
   - Western Europe: Run 1
   - North/South America: Run 2
-  - Asia and Oceana: Run 1 (parts 1 & 2), followed by Run 2 (parts 3 & 4)
+  - Asia and Oceania: Run 1 (parts 1 & 2), followed by Run 2 (parts 3 & 4)
 
-**Run 1**: Aligned with Western Europe, partially accessible to Americas or Asia/Oceana
+**Run 1**: Aligned with Western Europe, partially accessible to Americas or Asia/Oceania
 
 | London (GMT) | Content | Live | Beijing (GMT+8) | Brisbane (GMT+10)|
 |-----|---------|---|-----------------|-----------------|
@@ -37,22 +37,22 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 | 1530-1630 | part 4 slides | :heavy_check_mark: |
 | 1630-1700 | part 4 lab | :heavy_check_mark:    |
 
-**Run 2**: Aligned with North/South America, partially accessible to Asia/Oceana
+**Run 2**: Aligned with North/South America, partially accessible to Asia/Oceania
 
 
-| LA (GMT-8) | Content | Live | Beijing (GMT+8) | Brisbane (GMT+10)|
-|-----|-------|--|-----------------|-----------------------|
-| 1000-1100 | part 1 slides | 🎥              |
-| 1100-1130 | part 1 lab | :heavy_check_mark: |
-| 1130-1200 | break | ☕                      |
-| 1200-1300 | part 2 slides  | 🎥             |
-| 1300-1330 | part 2 lab | :heavy_check_mark: |
-| 1330-1430 | break | ☕                      |
-| 1430-1530 | part 3 slides  | 🎥             | 0630-0730 (6 Nov) | 0830-0930 (6 Nov) |
-| 1530-1600 | part 3 lab | :heavy_check_mark: | 0730-0800 (6 Nov) | 0930-1000 (6 Nov) |
-| 1600-1630 | break | ☕                      | 0800-0830 (6 Nov) | 1000-1030 (6 Nov) |
-| 1630-1730 | part 4 slides  | 🎥             | 0830-0930 (6 Nov) | 1030-1130 (6 Nov) |
-| 1730-1800 | part 4 lab | :heavy_check_mark: | 0930-1000 (6 Nov) | 1130-1200 (6 Nov) |
+| LA (GMT-8) | Content | Live | New York | Beijing (GMT+8) | Brisbane (GMT+10)|
+|-----|-------|--|------|-----------|-----------------------|
+| 1000-1100 | part 1 slides | 🎥              | 0800-0900 |
+| 1100-1130 | part 1 lab | :heavy_check_mark: | 0900-0930 |
+| 1130-1200 | break | ☕                      | 0930-1000 |
+| 1200-1300 | part 2 slides  | 🎥             | 1000-1100 |
+| 1300-1330 | part 2 lab | :heavy_check_mark: | 1100-1130 |
+| 1330-1430 | break | ☕                      | 1130-1230 |
+| 1430-1530 | part 3 slides  | 🎥             | 1230-1330 | 0630-0730 (6 Nov) | 0830-0930 (6 Nov) |
+| 1530-1600 | part 3 lab | :heavy_check_mark: | 1330-1400 | 0730-0800 (6 Nov) | 0930-1000 (6 Nov) |
+| 1600-1630 | break | ☕                      | 1400-1430 | 0800-0830 (6 Nov) | 1000-1030 (6 Nov) |
+| 1630-1730 | part 4 slides  | 🎥             | 1430-1530 | 0830-0930 (6 Nov) | 1030-1130 (6 Nov) |
+| 1730-1800 | part 4 lab | :heavy_check_mark: | 1530-1600 | 0930-1000 (6 Nov) | 1130-1200 (6 Nov) |
 
 We are thankful to Luca and Eugene for supporting additional live labs, and for CIKM 2021 volunteers, for being able to support this schedule.
 
@@ -64,8 +64,8 @@ We are thankful to Luca and Eugene for supporting additional live labs, and for 
 
 Contributors to Live Labs:
 
-* [Luca Soldini](https://soldaini.net/), Amazon
-* [Eugene Yang](https://www.eugene.zone/), Johns Hopkins University
+* [Luca Soldini](https://soldaini.net/), Amazon, US
+* [Eugene Yang](https://www.eugene.zone/), Johns Hopkins University, US
 
 
 
