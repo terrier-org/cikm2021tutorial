@@ -40,19 +40,19 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 **Run 2**: Aligned with North/South America, partially accessible to Asia/Oceania
 
 
-| LA (GMT-7) | Content | Live | New York (GMT-4) | Beijing (GMT+8) | Brisbane (GMT+10)|
+| LA (GMT-7) | Content | Live | New York (GMT-4) | São Paulo (GMT-3) | Beijing (GMT+8) | Brisbane (GMT+10)|
 |-----|-------|:--:|------|-----------|-----------------------|
-| 1000-1200 | part 1 slides | 🎥  | 1400-1500 |
-| 1200-1230 | part 1 lab | ✅     | 1500-1530 |
-| 1230-1300 | break | ☕          | 1530-1600 |
-| 1300-1400 | part 2 slides  | 🎥 | 1600-1700 |
-| 1400-1430 | part 2 lab | ✅     | 1700-1730 |
-| 1430-1530 | break | ☕          | 1730-1830 |
-| 1530-1630 | part 3 slides  | 🎥 | 1830-1930 | 0630-0730 (6 Nov) | 0830-0930 (6 Nov) |
-| 1630-1700 | part 3 lab | ✅     | 1930-2000 | 0730-0800 (6 Nov) | 0930-1000 (6 Nov) |
-| 1700-1730 | break | ☕          | 2000-2030 | 0800-0830 (6 Nov) | 1000-1030 (6 Nov) |
-| 1730-1830 | part 4 slides  | 🎥 | 2030-2130 | 0830-0930 (6 Nov) | 1030-1030 (6 Nov) |
-| 1830-1900 | part 4 lab | ✅     | 2130-2200 | 0930-1000 (6 Nov) | 1030-1200 (6 Nov) |
+| 1000-1200 | part 1 slides | 🎥  | 1400-1500 | 1500-1600 |
+| 1200-1230 | part 1 lab | ✅     | 1500-1530 | 1600-1630 |
+| 1230-1300 | break | ☕          | 1530-1600 | 1630-1700 |
+| 1300-1400 | part 2 slides  | 🎥 | 1600-1700 | 1700-1800 |
+| 1400-1430 | part 2 lab | ✅     | 1700-1730 | 1800-1830 |
+| 1430-1530 | break | ☕          | 1730-1830 | 1830-1930 |
+| 1530-1630 | part 3 slides  | 🎥 | 1830-1930 | 1930-2030 | 0630-0730 (6 Nov) | 0830-0930 (6 Nov) |
+| 1630-1700 | part 3 lab | ✅     | 1930-2000 | 2030-2100 | 0730-0800 (6 Nov) | 0930-1000 (6 Nov) |
+| 1700-1730 | break | ☕          | 2000-2030 | 2100-2130 | 0800-0830 (6 Nov) | 1000-1030 (6 Nov) |
+| 1730-1830 | part 4 slides  | 🎥 | 2030-2130 | 2130-2230 | 0830-0930 (6 Nov) | 1030-1030 (6 Nov) |
+| 1830-1900 | part 4 lab | ✅     | 2130-2200 | 2230-2300 | 0930-1000 (6 Nov) | 1030-1200 (6 Nov) |
 
 We are thankful to Luca and Eugene for supporting additional live labs, and for CIKM 2021 volunteers, for being able to support this schedule.
 
