@@ -78,6 +78,7 @@ Contributors to Live Labs:
  - PyTerrier_doc2query: [[Github](https://github.com/terrierteam/pyterrier_doc2query)]
  - PyTerrier_DeepCT: [[Github](https://github.com/terrierteam/pyterrier_deepct)]
  - PyTerrier_ANCE: [[Github](https://github.com/terrierteam/pyterrier_ance)]
+ - PyTerrier_DeepImpact [[Github](https://github.com/terrierteam/pyterrier_deepimpact)]
 
 # Citation Policy
 
