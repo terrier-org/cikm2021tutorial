@@ -42,17 +42,17 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 
 | LA (GMT-7) | Content | Live | New York (GMT-4) | Beijing (GMT+8) | Brisbane (GMT+10)|
 |-----|-------|--|------|-----------|-----------------------|
-| 1000-1100 | part 1 slides | 🎥              | 1300-1400 |
-| 1100-1130 | part 1 lab | :heavy_check_mark: | 1400-1430 |
-| 1130-1200 | break | ☕                      | 1430-1500 |
-| 1200-1300 | part 2 slides  | 🎥             | 1500-1600 |
-| 1300-1330 | part 2 lab | :heavy_check_mark: | 1600-1630 |
-| 1330-1430 | break | ☕                      | 1630-1730 |
-| 1430-1530 | part 3 slides  | 🎥             | 1730-1830 | 0530-0630 (6 Nov) | 0730-0830 (6 Nov) |
-| 1530-1600 | part 3 lab | :heavy_check_mark: | 1830-1900 | 0630-0700 (6 Nov) | 0830-0900 (6 Nov) |
-| 1600-1630 | break | ☕                      | 1900-1930 | 0700-0730 (6 Nov) | 0900-0930 (6 Nov) |
-| 1630-1730 | part 4 slides  | 🎥             | 1930-2030 | 0730-0830 (6 Nov) | 0930-1030 (6 Nov) |
-| 1730-1800 | part 4 lab | :heavy_check_mark: | 2030-2100 | 0830-0900 (6 Nov) | 1030-1100 (6 Nov) |
+| 1000-1200 | part 1 slides | 🎥              | 1400-1500 |
+| 1200-1230 | part 1 lab | :heavy_check_mark: | 1500-1530 |
+| 1230-1300 | break | ☕                      | 1530-1600 |
+| 1300-1400 | part 2 slides  | 🎥             | 1600-1700 |
+| 1400-1430 | part 2 lab | :heavy_check_mark: | 1700-1730 |
+| 1430-1530 | break | ☕                      | 1730-1830 |
+| 1530-1630 | part 3 slides  | 🎥             | 1830-1930 | 0630-0730 (6 Nov) | 0830-0930 (6 Nov) |
+| 1630-1700 | part 3 lab | :heavy_check_mark: | 1930-2000 | 0730-0800 (6 Nov) | 0930-1000 (6 Nov) |
+| 1700-1730 | break | ☕                      | 2000-2030 | 0800-0830 (6 Nov) | 1000-1030 (6 Nov) |
+| 1730-1830 | part 4 slides  | 🎥             | 2030-2130 | 0830-0930 (6 Nov) | 1030-1030 (6 Nov) |
+| 1830-1900 | part 4 lab | :heavy_check_mark: | 2130-2200 | 0930-1000 (6 Nov) | 1030-1200 (6 Nov) |
 
 We are thankful to Luca and Eugene for supporting additional live labs, and for CIKM 2021 volunteers, for being able to support this schedule.
 
