@@ -42,7 +42,7 @@ Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
 
 | LA (GMT-7) | Content | Live | New York (GMT-4) | São Paulo (GMT-3) | Beijing (GMT+8) | Brisbane (GMT+10)|
 |-----|-------|:--:|------|-----------|------------|-----------|
-| 1000-1200 | part 1 slides | 🎥  | 1400-1500 | 1500-1600 |
+| 1100-1200 | part 1 slides | 🎥  | 1400-1500 | 1500-1600 |
 | 1200-1230 | part 1 lab | ✅     | 1500-1530 | 1600-1630 |
 | 1230-1300 | break | ☕          | 1530-1600 | 1630-1700 |
 | 1300-1400 | part 2 slides  | 🎥 | 1600-1700 | 1700-1800 |
