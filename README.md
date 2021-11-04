@@ -7,10 +7,18 @@ This is the official repository of "*IR From Bag-of-words to BERT and Beyond thr
 # Contents
 
 * Part 1: Classical IR: indexing, retrieval and evaluation 
+  - [Slides](slides/part1.pdf)
+  - [Notebook](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook1.ipynb)
 * Part 2: Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
-* Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, ColBERT
-* Part 4: Recent Advances beyond the classical inverted index: neural inverted index augmentation, nearest neighbor search, dense retrieval
-
+  - [Slides](slides/part2.pdf)
+  - [Notebook](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook2.ipynb)
+* Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, T5 and neural inverted index augmentation such as DeepCT and Doc2Query
+  - [Slides](slides/part3.pdf)
+  - [Notebook](notebooks/notebook3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook3.ipynb)
+* Part 4: Recent Advances beyond the classical inverted index: learned sparse retrieval, dense retrieval, nearest neighbour search
+  - [DeepImpact Notebook](notebooks/notebook4_1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4_1.ipynb)
+  - [ANCE Notebook](notebooks/notebook4_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4_2.ipynb)
+  - [ColBERT Notebook](notebooks/notebook4_3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4_3.ipynb)
 
 # Schedule
 
@@ -64,7 +72,7 @@ We are thankful to Luca and Eugene for supporting additional live labs, and for 
 
 Contributors to Live Labs:
 
-* [Luca Soldini](https://soldaini.net/), Amazon, US
+* [Luca Soldaini](https://soldaini.net/), Amazon, US
 * [Eugene Yang](https://www.eugene.zone/), Johns Hopkins University, US
 
 
