@@ -7,12 +7,15 @@ This is the official repository of "*IR From Bag-of-words to BERT and Beyond thr
 # Contents
 
 * Part 1: Classical IR: indexing, retrieval and evaluation 
-  - [Notebook](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/ecir2021tutorial/blob/main/notebooks/notebook1.ipynb)
+  - [Notebook](notebooks/notebook1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook1.ipynb)
 * Part 2: Modern Retrieval Architectures: PyTerrier data model and operators, towards re-rankers and learning-to-rank
-  - [Notebook](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+  - [Notebook](notebooks/notebook2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook2.ipynb)
 * Part 3: Contemporary Retrieval Architectures: Neural re-rankers such as BERT, EPIC, T5 and neural inverted index augmentation such as DeepCT and Doc2Query
+  - [Notebook](notebooks/notebook3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook3.ipynb)
 * Part 4: Recent Advances beyond the classical inverted index: learned sparse retrieval, dense retrieval, nearest neighbor search
-
+  - [Notebook](notebooks/notebook4.1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4.1.ipynb)
+  - [Notebook](notebooks/notebook4.2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4.2.ipynb)
+  - [Notebook](notebooks/notebook4.3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4.3.ipynb)
 
 # Schedule
 
