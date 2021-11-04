@@ -69,7 +69,7 @@ We are thankful to Luca and Eugene for supporting additional live labs, and for 
 
 Contributors to Live Labs:
 
-* [Luca Soldini](https://soldaini.net/), Amazon, US
+* [Luca Soldaini](https://soldaini.net/), Amazon, US
 * [Eugene Yang](https://www.eugene.zone/), Johns Hopkins University, US
 
 
