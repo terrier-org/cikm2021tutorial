@@ -21,6 +21,8 @@ This is the official repository of "*IR From Bag-of-words to BERT and Beyond thr
   - [ANCE Notebook](notebooks/notebook4_2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4_2.ipynb)
   - [ColBERT Notebook](notebooks/notebook4_3.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terrier-org/cikm2021tutorial/blob/main/notebooks/notebook4_3.ipynb)
 
+If you participated in either run of this tutorial, please complete the Exit Feedback Quiz: https://forms.office.com/r/RiYSAxAKhk  
+
 # Schedule
 
 Our tutorial will run twice on Friday 5th November 2021, with live lab sessions.
