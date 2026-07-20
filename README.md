@@ -1,4 +1,4 @@
->> You can find a more recent (2026) PyTerrier tutorial at https://pyterrier-tutorial.github.io/
+>> ⚠️ You can find a more recent (2026) PyTerrier tutorial at https://pyterrier-tutorial.github.io/
 
 # IR From Bag-of-words to BERT and Beyond through Practical Experiments
 
