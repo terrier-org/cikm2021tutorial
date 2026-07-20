@@ -1,3 +1,5 @@
+>> You can find a more recent (2026) PyTerrier tutorial at https://pyterrier-tutorial.github.io/
+
 # IR From Bag-of-words to BERT and Beyond through Practical Experiments
 
 This is the official repository of "*IR From Bag-of-words to BERT and Beyond through Practical Experiments*", a [CIKM 2021](https://www.cikm2021.org/) full-day tutorial with [PyTerrier](https://github.com/terrier-org/pyterrier) and [OpenNIR](https://opennir.net) search toolkits.
